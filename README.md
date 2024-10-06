@@ -17,7 +17,7 @@ This is a Microsoft Excel-based tool that helps you quickly plan for different d
 - **Variance vs. Target GM**
 
 ## Benefits of using the tool:
-- **Quick and easy to use**: Simply enter your input values and the tool will automatically calculate the outputs for you.
+- **Quick and easy to use**: Simply enter your input values in yellow box section and the tool will automatically calculate the outputs for you.
 - **Scenario planning**: You can easily model different discount scenarios to see how they would impact your bottom line.
 - **Improved decision making**: By understanding the potential impact of discounts, you can make more informed decisions about pricing strategy.
 
